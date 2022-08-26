@@ -1,0 +1,7 @@
+{
+    "name": "openweb/home",
+    "require": {
+        "nicolab/php-ftp-client": "^1.4",
+        "pear/crypt_gpg": "^1.6"
+    }
+}

@@ -1,0 +1,1 @@
+lftp sftp://opnza00001@partner.avios.com -u OPNZA00001,dahNi7LeeP3u -e "mirror -R /home/home/public_html/application/avios/inbound/ /inbound; bye"

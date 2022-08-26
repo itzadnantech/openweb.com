@@ -1,0 +1,40 @@
+
+ .flat-ui-form-inputs {
+
+   /*  margin-left : 20px; */
+   /*  margin-right : 20px; */
+     margin-bottom : 20px;
+
+     /* background: url(images/comment-author.gif) no-repeat scroll 7px 7px; */
+ }
+
+ .flat-ui-login-form {
+
+  /*  margin-top : 24%;
+     margin-bottom: 28%; 
+*/
+     background-color: white;
+	 border-style: solid;
+	 border-color: #a0a0a0;
+     border-width: 1px;
+
+
+
+
+ }
+
+ .flat-ui-backgound{
+
+
+	  background-image: url("../../img/background.png");
+	  background-repeat: repeat;
+	/*  position: absolute;
+	  left: 0px;
+	  top: 0px;
+	  width: 2048px;
+	  height: 1536px;
+	  background-repeat: repeat;
+	  z-index: -7;
+	*/
+
+ }

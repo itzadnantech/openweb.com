@@ -1,0 +1,1 @@
+<div class="alert alert-success">Your cart has been emptied!</div>

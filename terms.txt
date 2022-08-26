@@ -1,0 +1,199 @@
+Openweb
+TERMS AND CONDITIONS 
+
+1.  SCOPE OF AGREEMENT  
+Openweb provides the service to the user on the terms and conditions set out below. 
+By entering the user’s name and associated details into the required space to create a profile on the Openweb customer portal and by logging into the Openweb ADSL/Fibre account, the user (or his/her/its representative) indicates that the user irrevocably accepts these terms and conditions. Please pay special attention to the terms below which are in bold.  This page will not time out even if it takes some time to read and understand the terms and conditions. 
+
+2.  INTERPRETATION
+In these terms and conditions:
+2.1 “Consumer Protection Act” means the Consumer Protection Act 68 of 2008. 
+2.2 “Logging on” means the user entering the Openweb ADSL/Fibre credentials (username and password) provided into a router, modem or computer with the intent of connecting to the Openweb network.
+2.3 "Openweb" means Openweb (PTY) LTD, a registered company which trades as Openweb;
+2.4 “Openweb network” means the electronic communication infrastructure used by Openweb to provide Internet access and bandwidth to the user;  
+2.5 “parties” means Openweb and the user;
+2.6 "the service" means the provision of access to the Openweb network and related infrastructure by Openweb to the user in accordance with these terms and conditions; 
+2.7 “terms and conditions” means the terms and conditions set out above and below;
+2.8 "the user" means any person/entity that makes use of “the service”;
+2.9 “registered user” means the ‘user’ that has entered their credentials into the Openweb customer portal and who pays for the “the service”.
+2.10  “downgrade” means substituting a “service” that costs less than the initial “service” purchased by the user; 
+2.11  “service agreement” means the agreement between Openweb and the user for the provision of the service, which is subject to all terms acknowledged and agreed to by the user (or his/her/its representative) when creating a profile on the Openweb customer portal, including these terms and conditions;
+2.10  “Shaping” or “packet shaping” is a computer network traffic management technique which delays some or all datagrams/protocols to bring them into compliance with a desired traffic profile;
+2.11  “a calendar month” is the period between the first and the last day of any given month (e.g. 01 – 31 January is a ‘calendar month”).
+2.12  “Protocols” means Network protocols that are formal standards and policies comprised of rules, procedures and formats that define communication between two or more devices over a network. Network protocols govern the end-to-end processes of timely, secure and managed data or network communication. Examples of protocols can be defined as, but not limited to : HTTP, HTTPS, FTP, VOD, P2P etc
+
+3   PROVISION OF SERVICE AND AUTHORITY
+3.1  The user acknowledges that he/she has the prerequisite infrastructure in place to make use of the service. This includes but is not limited to a working Telkom ADSL line and/or a working Fibre line running at the correct speed for the chosen Openweb data package. The user will be solely responsible for obtaining and arranging, configuring and maintaining all of the user’s equipment, including (but not limited to) computer hardware equipment, telecommunication equipment, modems/router, smart phones, tablets and the like, used by the user to obtain and maintain access to the Openweb network provided by Openweb. 
+3.2  The user will be liable for all telephone call charges and other costs payable to third parties relating to obtaining and arranging, configuring and maintaining equipment as described in 3.1 above.
+3.3  The user (or his/her/its representative) warrants (undertakes that the following is true and may be liable for damages if it is not) that the user (or his/her/its representative) has the authority and capacity to contract with Openweb for itself/himself/herself or, where applicable, on behalf of the trust, close corporation, company or other person the representative represents.   
+
+4   NETWORK & AVAILABILITY OF ACCESS AND ASSOCIATED ACCEPTABLE USAGE
+4.1  The Openweb network may be used to link into other networks in South Africa and universally and the user agrees to conform to the use policies of these networks. (This means that the user must make sure that it does not use other networks, for example Internet Solutions in South Africa, in a way that breaches the rules of use and acceptable usage policies of those networks.) 
+4.2  The user may not circumvent user authentication or security of any website, domain, host, network, or account (referred to as "cracking" or "hacking"), nor interfere with data package to any user, host, or network (referred to as "denial of service attacks") and accepts that it is illegal to do so, constitutes a material breach of the service agreement, and affords Openweb the right to suspend and/or terminate the service agreement immediately.
+4.3  In addition and without prejudice to (without overriding or taking away from) what is set out above, the use of any application that overloads the Openweb network (e.g DOS or DDOS attacks) by whatever means will be regarded as making reckless use of the Openweb network and is NOT allowed. 
+4.4  Users who violate systems or network security may incur criminal or civil liability. Openweb will fully co-operate with investigations of suspected criminal violations, violation of systems or network security under the leadership of law enforcement or relevant authorities. 
+4.5  Openweb will make every effort to make the service available at all times and will use its utmost endeavours to strive for 100 % (one hundred percent) uptime and associated bandwidth speeds. However, since Openweb relies on numerous suppliers in order to provide the service, OPENWEB is unable to and does not guarantee or warrant 100 % (one hundred percent) uptime and associated bandwidth speeds. The bandwidth speeds advertised on the Openweb website indicate speeds up to the maximum possible theoretical speed attainable on a given Openweb ADSL/Fibre package and Openweb does not warrant (undertake that the following is true and be open to possible liability for damages if it is not) that the user will experience bandwidth speeds equal to the maximum possible theoretical speeds. All access to the electronic communications infrastructure is rendered on a “best effort” basis and Openweb accordingly does not offer any form of service level agreement whatsoever. 
+4.6  Openweb will strive at all times to provide users with prior notice, where possible, of scheduled maintenance which may result in users having to log-off for any period of time.  
+4.7  Openweb will not be responsible for the performance of external communications networks and protocols to which the service is connected, including the networks of Internet data package providers other than Openweb. 
+Important Waiver and Indemnity
+4.8  The user waives all and any claims that may arise as a result of Openweb being unable to make the service available to the user under the circumstances contemplated in 4.7 above and indemnifies Openweb and holds Openweb harmless against all and any claims that may arise as a result of Openweb being unable to make the service available to the user under the circumstances contemplated in 4.7 above.
+More specifically:
+4.8.1   The user cannot bring any such claim against Openweb;
+4.8.2   In relation to third party claims:
+4.8.2.1 the user will pay all costs, damages, awards and judgments finally awarded against     Openweb arising from such claims;
+4.8.2.2 the user will pay all legal fees incurred in connection with such claims on an attorney and own client scale (Openweb will recover as much of its costs incurred as legally possible), including fees incurred prior to or during the institution of legal proceedings, and/or in connection with the satisfaction of any costs, damages, awards and/or judgments awarded against Openweb;
+4.8.2.3 the user will, at the user’s expense, notify Openweb of any such claim which comes to the user’s attention; where applicable give Openweb the authority to defend, compromise or settle any such claim; and give Openweb all reasonable assistance necessary to defend such claims;
+4.8.2.4 the user’s indemnity against third party claims will not apply to the extent that it is not permitted under the Consumer Protection Act.
+Reference to Openweb in this clause 4.8 includes reference to any employee, representative or other personnel of Openweb. 
+4.9  Openweb will provide the service strictly subject to the terms and conditions prescribed by its third-party bandwidth resellers and the national regulator (Independent Communications Authority of South Africa, ICASA) and prevailing legislation.  
+4.10  Openweb will be entitled to suspend the service if, during the user's use of the service, the Openweb network is or potentially may be endangered, harmed and/ or impeded. Where possible, Openweb will notify the user prior to such a suspension. 
+4.11  Openweb will not be responsible for any bandwidth loss or theft as it is the user’s responsibility to ensure proper management of their usage and associated credentials.
+4.12  Local usage (relating to the use of internet sites and email servers hosted in South Africa): In some cases, the local usage provided after the initial cap has been depleted, is capped at a set number of gigabytes (e.g. 1GB, 10GB or 30GB's depending on the account purchased). Once the user’s account has reached the applicable local usage cap, the account will be hard-capped until the following month. (The user will not be able to make use of the service while the user’s account is hard-capped). Additional accounts can be purchased, at the user’s discretion.  
+4.13  Acceptable Usage and Packet Shaping Policy (AUP)
+Openweb makes use of ‘electronic measures’ in the form of bandwidth ‘packet shaping’ to ensure that the Openweb network is not compromised or over burdened by abuse as defined in Section 5.3 and 5.4 of these ‘terms’.  Protocols that may be subject to ‘packet shaping’ include, but are not limited to P2P/bit-torrent, NNTP. HTTP file host and certain ‘video on demand’ (VOD) services. The application of ‘shaping’ is based on how busy the Openweb network is at any given time as well as the priority of a given user’s service level. Packet shaping is not based on a given user’s bandwidth consumption. 
+Shaping is applied as follows:
+SERVICE CLASS LEVEL - Home Uncapped Shaped data packages:
+In general, shaping is most aggressively applied between 08:00 to 19:00.  Between 19:00 and 22:00 shaping is generally relaxed as the network usually quietens down during these times.  From 22:00 to 00:00 shaping is lowered even further, providing the network is not congested.  
+From 00:00 to 06:00  access is completely unshaped.
+Shaping is only applied to bandwidth intensive protocols on the Home Uncapped service level.  Some protocols will never be shaped no matter how much data is consumed.  These are defined as follows:
+Unshaped protocols:
+Browsing/Emails/Google Services/FTP/Openweb Hosted Servers.
+
+Shaped protocols:
+Shaping is applied on three different priority levels.  Low priority applications will receive the highest amount of shaping, where Medium and High priority applications will receive less shaping.
+Low Priority Applications:
+
+P2P torrents and similar/HTTP or HTTPS Downloads/File sharing Downloads/NNTP Downloads.
+
+Medium Priority Applications:
+
+Streaming VOD
+Gaming
+Security (VPN/DNS/PROXY)
+File transfer/Windows DRP
+Microsoft Windows /Apple/Linux updates
+Other
+
+High Priority Applications:
+VOIP (Voice over IP)
+SERVICE CLASS LEVEL - Home Uncapped PLUS Shaped data packages:
+In general, shaping is most aggressively applied between 08:00 to 19:00.  Between 19:00 and 22:00 shaping is generally relaxed as the network usually quietens down during these times.  From 22:00 to 00:00 shaping is lowered even further, providing the network is not congested.
+From 00:00 to 06:00 access is completely unshaped.
+Unshaped protocols:
+Browsing/Emails/Google Services/FTP/ Openweb Hosted Servers
+VOIP (Voice over IP)
+Streaming (Between 19:00 and 07:00)
+Gaming (Between 19:00 and 07:00)
+
+Shaped protocols:
+Shaping is also applied on different priority levels.  Low priority applications will receive the highest amount of shaping, where Medium and High priority applications will receive less shaping.
+Low Priority Applications:
+P2P torrents and similar
+HTTP or HTTPS Downloads
+File sharing Downloads
+
+Medium Priority Applications:
+
+Security (VPN/DNS/PROXY)
+
+File transfer/Windows RDP
+Windows / Apple updates
+Other
+
+SERVICE CLASS LEVEL - Home Uncapped Premium:
+This product is ‘largely’ Unshaped.  This means that all ports and protocols are treated with an equal level of priority.  
+All accounts are UNSHAPED until a client reaches the usage thresholds indicated below in a current calendar month.   Once shaped, the Home Uncapped PLUS service profile will be applied to the account for the rest of the month.   
+
+From 00:00 to 06:00 access is completely unshaped regardless of the thresholds below.
+FUP/AUP limits - Home Uncapped Unshaped Premium:
+
+2Mbps – 140GB
+4Mbps – 220GB
+10Mbps – 320GB
+20Mbps – 650GB
+
+The clients FUP/AUP usage counter is reset on the 1st of each month upon which the account will be unshaped again.
+
+SERVICE CLASS LEVEL - Capped Unshaped:
+Capped products are never shaped.  All ports and protocols will be treated equally with no exceptions.  Capped Unshaped accounts will always receive a high priority on the network.
+
+5.  USER ETIQUETTE & ILLEGAL USE 
+5.1  The user acknowledges and agrees that the user is expected to abide by generally accepted Netiquette.  
+5.2  The user acknowledges that Openweb is unable to exercise control over the content of the information passing over the Openweb network and is accordingly not responsible or in any way liable for such content.
+5.3  The Openweb network may only be used for lawful purposes. The user will accordingly not use the service in any manner which:  
+5.3.1  constitutes a violation of any law, regulation and/or tariff that is in force in the Republic of South Africa; 
+5.3.2  constitutes an act or omission that is generally unacceptable or offensive to internet users in general or the public at large, specifically including but not limited to the hosting of pornographic or other obscene material, spamming, hacking, unsolicited mailing or use of material that violates export control laws; 
+5.3.3  is defamatory, fraudulent or deceptive; 
+5.3.4  is intended to threaten, harass or intimidate; 
+5.3.5  damages the name and/or reputation of Openweb; 
+5.3.6  interferes with the use and enjoyment of internet related services by other users or Openweb services;
+5.3.7  forwards or propagates chain letters or malicious email; and/or 
+5.3.8  solicits mail for any address other than that of the user, except with full consent of the owner of such other address. 
+To assist the user to comply with the user’s obligations under this clause 5.3, Openweb will forward or communicate to the user any notifications which Openweb receives relating to the improper use of the service or the Openweb network by the user.
+5.4    The user undertakes to abide by all laws applicable to copyright and intellectual property, redistribution or re-sale of any data and/or publications, compositions, productions and software information retrieved from the service and/or the internet by the use of the service. Transmission, distribution or storage of any material protected by copyright, trademark, trade secret or other intellectual property right without proper authorisation, is strictly prohibited.  
+5.5    The user will not, without the express written permission of Openweb, resell or otherwise make the service the user may receive from Openweb, available to any third party.  
+5.6    The user acknowledges that third party product and service providers advertise their products and services on the Openweb website. Open ISP forms partnerships or alliances with some of these vendors from time to time in order to facilitate the provision of these products and services to the user. However, the user acknowledges and agrees that at no time is Openweb making any representation or warranty regarding any third party’s products or services, nor will Openweb be liable to the user or any third party for any claims arising from or in connection with such third party products and/or services. 
+Important Indemnity
+5.7    The user indemnifies and holds Openweb harmless against all and any third party claims that may arise from the user’s use of the Openweb network and/or the user’s telecommunication line and/or the service. More specifically:
+5.7.1 the user will pay all costs, damages, awards and judgments finally awarded against Openweb arising from such claims;
+5.7.2   the user will pay all legal fees incurred in connection with such claims on an attorney and own client scale (Openweb will recover as much of its costs incurred as legally possible), including fees incurred prior to or during the institution of legal proceedings and in connection with the satisfaction of any costs, damages, awards and/or judgments awarded against Openweb;
+5.7.3   the user will, at the user’s expense, notify Openweb of any such claim which comes to the user’s attention; where applicable, give Openweb full authority to defend, compromise or settle such claims; and give Openweb all reasonable assistance necessary to defend such claims; 
+5.7.4   the user’s indemnity against third party claims will not apply to the extent that it is not permitted under the Consumer Protection Act. 
+Reference to Openweb in this clause 5.7 includes reference to any employee, representative or other personnel of Openweb.
+6   PAYMENT FOR THE SERVICE
+6.1  The user will pay to Openweb a monthly subscription as set out in the applicable tariff guide appearing at: http:// www.Openweb.co.za and associated pages.
+6.2  Subscriptions are due on or before the 27th of each month, paid in advance for the following month’s service if paid for by means of an EFT or via credit card.  Subscriptions may be paid by way of electronic transfer, credit card payment or debit order.  
+6.3  The user is responsible for ensuring that debit order and credit card payments are honoured and that the necessary payment mechanisms are in place. Monthly debit order payments are processed between the 1st and 4th day of each month. Debit orders that are arranged during a ‘new’ user’s first month of subscription will be processed during the next 7 day debit order processing period.  If the user pays by electronic transfer, the user is responsible for sending proof of payment to Openweb by email to admin@Openweb.co.za or by fax to 086 691 2166 and for verifying that Openweb has received the proof of payment and marked the user’s account as PAID on or before the 27th of each month. 
+6.4  The service may be terminated without notice to the user, with effect from the first day of the following month, if:
+6.4.1  a subscription which is due for the following month is not paid; or
+6.4.2  in the case of electronic transfers, proof of payment of a subscription is not received by the 27th of the month preceding the month of usage and Openweb does not subsequently receive the subscription in its bank account after the 27th but before the end of that month. 
+6.5   Subject to Openwebs discretion in clause 6.4, if the first and/or the second payment due by the user to Openweb is not paid then the service will be terminated without notice to the user on the date when the third payment falls due, without prejudice to Openwebs or its nominated agent/s right to recover the first and/or second payments with interest and/or collection fees/costs which accrues by operation of law.
+6.6   Openweb will not be liable for any loss (including loss of business or revenue), damages, expenses, costs or claims arising due to the termination of the service in the circumstances contemplated in clauses 6.4 and 6.5.
+6.7   Except to the extent the following limitations may be prohibited by the Consumer Protection Act in certain circumstances:
+6.5.1   subscriptions are to be paid without deduction, set-off or demand; and
+6.5.2   subscriptions paid are non-refundable.  
+6.8  Access to the service paid for within a month (i.e. after the first day of the month), will only last until the end of the month it was purchased in.
+6.9   The service is rendered on a month to month basis and the service agreement does not constitute a ‘fixed term contract’ as contemplated in Section 14 of the Consumer Protection Act.
+6.10   Where the client makes an incorrect or additional payment/s and as such a refund is required, a penalty of 10% the payment value may be levied and deducted before the refund is processed. 
+6.11   Clients will be billed irrespective of whether the ADSL/Fibre data account is used or not – this is because Openweb is required to purchase the prerequisite capacity on the client’s behalf in advance. 
+
+7   SUSPENSION/TERMINATION OF SERVICE BY OPENWEB 
+7.1  The service may be suspended by Openweb in the following circumstances:
+7.1.1  During any technical failure, modification or maintenance of the service or the Openweb network, including but not limited to:
+7.1.1.1  a failure due to activity such as cracking, hacking or denial of service attacks described in 4.2 above; and
+7.1.1.2  any maintenance contemplated in 4.6 above, provided that Openweb will use its reasonable efforts to resume the service as soon as possible.
+7.1.2   If and when the Openweb network is or potentially may be endangered, harmed and/ or impeded as described in 4.10 above.
+7.2   Recognising the constitutional right of our employees and/or agents to dignity, the user is required to refrain from abusing Openwebs staff members and agents.  If a user directly or indirectly abuses (including but not limited to the use of foul/obscene language and/or profanity and/or racial and/or gender abuse or innuendo) or harasses an Openweb staff member or agent, this will be regarded as a material breach of the service agreement and the account of the user in question will immediately be deleted without any refund whatsoever.  In these cases, Openweb reserves its rights to pursue the matter further.
+7.3   In addition to the right of termination set out in 6.4 above, the service may be terminated by Openweb immediately and without notice to the user should the user fail to comply with any material term or condition set out in these terms and conditions.
+7.4   Openweb reserves the right to levy a re-connection charge (an amount determined and calculated at the discretion of Openweb) for re-connection to the use of the service or Openweb network after suspension or termination of the service for any reason.  Any re-connection charge will be payable immediately when the user receives an invoice from Openweb for the re-connection charge. 
+7.5   The user will remain liable for all charges due throughout a period of suspension of the service unless Openweb in its sole discretion determines otherwise in writing.  
+
+
+8   TERMINATION OF USE AND DOWNGRADES OF THE SERVICE BY THE USER
+Only the registered user may terminate the use of the service and the associated debit order (if applicable) by filling in the online form located at http://openweb.co.za/cancellations/. 
+8.1   One (1) calendar months’ notice for all users making use of debit/credit order payment facilities, given before the 25th day of the month before the last month for the provision of the service (e.g. if the user wishes the use of the service to terminate at the end of April, notice of termination must be given before 25 March).  Users may not downgrade their ADSL/Fibre account/s during/for the one (1) calendar months’ notice period. Where proper notice is given in time, Openweb will issue, by email, a cancellation reference number.  Only once a cancellation reference number has been issued will the user’s account be deemed to be cancelled.  
+8.2   The user is required to provide Openweb with a calendars months’ notice should they wish to downgrade their service level. The downgrade request must be sent via email to downgrades@openweb.co.za before the 25th day of the month preceding the downgrade notice month (e.g. if the user wishes the downgrade to occur at the end of April, notice of the downgrade must be given before 25 March). Openweb will issue, by email, a downgrade reference number.  Only once a downgrade reference number has been issued will the user’s account be processed for the downgrade.  
+
+9   DISPUTE RESOLUTION  
+9.1   Save and except relating to the provisions of clause 6.5 above, any dispute between the user and Openweb in regard to any matter arising out of these terms and conditions or their interpretation, or the parties’ respective rights and liabilities under these terms and conditions or the cancellation of these terms and conditions or any matter relating to these terms and conditions will be submitted for mediation by the user or Openweb on written notice to the other and, failing resolution at mediation within 20 business days of referral of the dispute to mediation, for arbitration. 
+9.2   The mediator/arbitrator will be appointed by agreement between the parties and will be, if the question in issue is: 
+9.2.1   primarily a legal matter, a practising advocate of not less than 5 (five) years’ standing accredited as a mediator (where the advocate is required to mediate) based in Durban; 
+9.2.2   any other matter except billing related matters, an independent person agreed on between the parties and failing agreement appointed by the chairperson of the Society of Advocates KZN.  
+9.3   The arbitration will be conducted in accordance with the rules of the Arbitration Foundation of Southern Africa (“AFSA”) for Commercial Arbitrations but not through the offices or under the administration of AFSA, unless otherwise agreed between the user and Openweb in writing.
+9.4   Nothing in this clause 9 will prevent Openweb from seeking interim and/or urgent relief from a Court of competent jurisdiction and to this end the Parties hereby consent to the jurisdiction of the High Court of South Africa.
+9.5   This clause 9 is not intended to limit the user’s right to settle a dispute concerning the application of the Consumer Protection Act using the mechanisms provided in the Consumer Protection Act.
+
+10  REGULATORY COMPLIANCE 
+10.1  The user undertakes to comply with all regulatory obligations that may now or in the future be imposed by the body under whose authority the service falls, currently the Independent Communications Authority of South Africa, ICASA.
+(To help the user to comply with the user’s obligations under this clause 10.1, Openweb will forward or communicate to the user any notifications which Openweb receives relating to the user’s regulatory obligations as imposed by ICASA or its successor.)
+10.2  The user acknowledges that the imposition of regulatory obligations by such body may result in the need to change these terms and conditions and the user undertakes to co-operate with Openweb in this process.
+
+11  CONSENT
+11.1  The ‘user’ consents to receiving marketing material by means of email from Openweb. Should a ‘user’ wish to no longer receive said marketing material they may request to be removed from the email database by emailing: admin@openweb.co.za.
+11.2  The ‘user’ consents to Openweb and/or it’s upstream bandwidth provider monitoring the protocols used in bandwidth consumption, this is to enable Openweb to effectively manage ‘Packet shaping’ as detailed in 4.3. 
+GENERAL 
+11.1  The user acknowledges and agrees that these terms and conditions govern the user’s use of the service and that there are no other agreements, guarantees, warrantees or representations, either verbal or in writing, governing or relating to the user’s use of this service.
+11.2  Any explanations in brackets are for explanatory purposes only, to aid understanding by the user, and will not govern the interpretation of these terms and conditions.
+11.3  These terms and conditions may be clarified or modified periodically. Such changes are deemed effective as soon as they are published on the Openweb website (www.Openweb.co.za/terms.pdf).
+
+Any queries regarding these terms and conditions can be sent to admin@Openweb.co.za

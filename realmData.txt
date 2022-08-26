@@ -1,0 +1,1 @@
+{"user":"api@openwebmobile.co.za","pass":"3b2de5d790663a459b9e78f8559677ca","realm":"openwebmobile.co.za"}
