@@ -453,6 +453,23 @@ class Admin extends My_Controller
 
     public function get_class_name()
     {
+        $usernameAuth = 'keoma_wright_5454';
+        $passwordAuth = 'DvzrpXq2';
+        $host = 'https://qa.mwebaws.co.za/reseller/rest/lte/getClass.php';
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $host);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_HTTPGET, 1);
+        curl_setopt($ch, CURLOPT_USERPWD, $usernameAuth . ":" . $passwordAuth);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
+        curl_setopt($ch, CURLOPT_DNS_USE_GLOBAL_CACHE, false);
+        curl_setopt($ch, CURLOPT_DNS_CACHE_TIMEOUT, 2);
+        $response = curl_exec($ch);
+        curl_close($ch);
+        echo $response;
+    }
+    public function get_class_name_old()
+    {
         $usernameAuth = 'api@openwebmobile.co.za';
         $passwordAuth = 'oC3JRkyQ7q==123-';
         $host = 'https://www.isdsl.net/api/rest/lte/getClass.php?realm=openwebmobile';
@@ -10949,8 +10966,9 @@ OpenWeb.co.za";
     {
         $this->load->model("network_api_handler_model");
 
+       
         $res = $this->network_api_handler_model->provisionLTEAccount($_POST);
-
+        
         $msg_filter = strstr($res, '{');
         $msg = json_decode($msg_filter, TRUE);
         if (array_key_exists("error_msg", $msg)) {

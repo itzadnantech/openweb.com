@@ -25,11 +25,11 @@ $stats_options = array (
         'description' => 'Queue a data topup for an LTE account.'
     )
     ,
-	 'add_new_lte_account' => array (
-        'title' => 'Add new LTE account',
-        'function' => 'add_new_lte_account',
-        'description' => 'This is used to add a new LTE account.'
-    ),
+	//  'add_new_lte_account' => array (
+    //     'title' => 'Add new LTE account',
+    //     'function' => 'add_new_lte_account',
+    //     'description' => 'This is used to add a new LTE account.'
+    // ),
 
     'create_new_lte_account' => array (
         'title' => 'Create new LTE Account with MTN SIM',

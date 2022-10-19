@@ -1,0 +1,16 @@
+crons backup
+
+*/15	*	*	*	*	/usr/local/bin/php /home/home/public_html/index.php crons AviosFileParser > /home/home/public_html/crons/parser.txt	    
+0	23	30	4,6,9,11	*	/usr/local/bin/php /home/home/public_html/index.php crons resetMonthAviosDate > /home/home/public_html/crons/reset.txt	    
+0	23	31	1,3,5,7,8,10,12	*	/usr/local/bin/php /home/home/public_html/index.php crons resetMonthAviosDate > /home/home/public_html/crons/reset.txt	    
+0	23	28,29	2	*	/usr/local/bin/php /home/home/public_html/index.php crons resetMonthAviosDate > /home/home/public_html/crons/reset.txt	    
+*/10	*	*	*	*	bash /home/home/public_html/crons/prod_out.sh	    
+*/10	*	*	*	*	lftp sftp://opnza00001@partner.avios.com -u OPNZA00001,dahNi7LeeP3u -e "mirror -R /home/home/public_html/application/avios/inbound/ /inbound; bye"; rm -r /home/home/public_html/application/avios/inbound/*	    
+0	23	30	4,6,9,11	*	/usr/local/bin/php /home/home/public_html/index.php crons monthlyAviosAward > /home/home/public_html/crons/gather.txt	    
+0	23	31	1,3,5,7,8,10,12	*	/usr/local/bin/php /home/home/public_html/index.php crons monthlyAviosAward > /home/home/public_html/crons/gather.txt	    
+0	23	28,29	2	*	/usr/local/bin/php /home/home/public_html/index.php crons monthlyAviosAward > /home/home/public_html/crons/gather.txt
+
+
+
+Removed Side bar Menu
+INSERT INTO `role_access` (`id`, `name`, `slug`, `url`, `parent_id`, `allowed_access`) VALUES (NULL, 'Add new LTE account', 'add_new_lte_account', '/add_new_lte_account', '39', '7001')
